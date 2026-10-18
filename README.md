@@ -36,7 +36,7 @@ Designed with simplicity and readability in mind, this project is a small exampl
 The calculator uses the standard BMI formula:
 
 \[
-\text{BMI} = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
+\text{ИМТ} = \frac{\text{Вес (кг)}}{\text{Рост (м)}^2}
 \]
 
 The height is entered in centimeters and converted to meters during the calculation.
